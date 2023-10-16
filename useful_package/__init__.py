@@ -1,1 +1,1 @@
-from useful_package.module_a_dev import module_a.py
+from useful_package.module_a_dev.module_a import polynom_3
